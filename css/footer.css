@@ -1,5 +1,5 @@
 footer{
-    background: #9f8ad0;
+    background: rgba(0, 0, 0, 0.822);
     padding-bottom: 0.1px;
     border: 1px solid #000;
 }
@@ -46,7 +46,7 @@ footer{
 
 .social-media-icon:hover{
     background: #fff;
-    color: black;
+    color: rgba(0, 0, 0, 0.89);
 }
 
 .social-media-icon i{
