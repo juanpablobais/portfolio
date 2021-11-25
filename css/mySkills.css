@@ -1,0 +1,19 @@
+.mySkills{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cont-skills{
+    width: 30%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cont-skills img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
